@@ -1334,3 +1334,8 @@ http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
 http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yatb.tv/wp-content/uploads/2018/03/73d917e7-logo.jpg" group-title="",ЯТБ
 http://46.175.163.130/vod/8/index.m3u8
+#EXTM3U
+#EXTINF:-1,CNC3
+rtmp://live.cnc3.co.tt:1935/livepkgr/livestream
+#EXTINF:-1,ttt
+http://cnmg.live.cdn.bitgravity.com/cnmg/live/ctv
