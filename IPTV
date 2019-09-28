@@ -1339,3 +1339,5 @@ http://46.175.163.130/vod/8/index.m3u8
 rtmp://live.cnc3.co.tt:1935/livepkgr/livestream
 #EXTINF:-1,ttt
 http://cnmg.live.cdn.bitgravity.com/cnmg/live/ctv
+#EXTINF:-1,SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8   
