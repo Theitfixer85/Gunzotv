@@ -18,8 +18,6 @@ http://broadpeakvip.airlinktt.co/live/smil:AE.smil/playlist.m3u8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ESCAPE.smil/playlist.m3u8
 #EXTINF:-1,GRIT
 http://broadpeakvip.airlinktt.co/live/smil:GRIT.smil/playlist.m3u8
-#EXTINF:-1,STARZ ENCORE WESTERNS
-http://136.243.88.88:25461/AktzdjsTzp/4ONU8gwUKk/51911?token=HUcJBEVRFg9EDAZTXQZXBwNUAVEGAVYBAVBWBAAHC1cCVVBVUA8MDVAXSEBKF0dWVAg7D1cbCA0DUVcGHURGEQMXPgxSGw4XXgJWUQpBGRFBDAkDEQMDDQZVVggDVgZXSkcRDFIbDlsTWQhOGwZNR1AXCgdfZlZdRwoFVRNcXRcKCU1HWVdrUQNYBQxdQQ8RBEdIRFpKQhoLDRNcXUoRAA8REwRCXBYPCEAIDhVBVlxACxAUShsIGmU3RBwTA0sWAwsSDFlXFg9EQRdAFUFcQGoXARVHS1dZXAYUEgtEAkBKRwwETmZXWghbAQFNClpdRkdeRAIMAhodQQtfXw9HDRQ6EQxSGw5bE1kIHw
 #EXTINF:-1,ME TV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ME_TV.smil/chunklist_b1160000.m3u8
 #EXTINF:-1,TVONE
@@ -118,10 +116,6 @@ http://broadpeakvip.airlinktt.co/live/smil:IFC.smil/playlist.m3u8
 http://broadpeakvip.airlinktt.co/live/smil:SPACE.smil/playlist.m3u8
 #EXTINF:-1,STARZ
 http://broadpeakvip.airlinktt.co/live/smil:STARZ.smil/playlist.m3u8
-#EXTINF:-1,PIX L
-http://190.2.141.6:25461/P75CX5KoB0/WBdYJjzfHf/6228?token=SRcOVRcMEQgWCgEGXAIAXVcGUgYDClYDAQJXUwMMUQILAQcMAVJRUAcRG0cXRxdcUl8+ClMQWwIEBlkdR0wVUEBqD1BGXhEHAwIEVUYfR01aXwRBDQNUDQYBUAlUD1UZEEUPUEZeXUdYXxtHAUsRXEFcAA9oVgRCX1cEE19XE1leGURbCjtXV1lSWQFGCUcIER5DCkRCQw5YQQ1dSRsEXEZHB0ABRglcQV9bSUZQCkxdRhMaFQhDYGIWTRMAQRJQXEYPWwpGCRBAQBVJRloWZkFXEhdFVwBZU0ZDC0cJRBkQWAdMOwdcXFpWVBENXAtKEQhDUhUeQ1lZWghFCks5RVtRRA4KEV9eSQ==
-#EXTINF:-1,EPIX
-http://136.243.88.88:25461/AktzdjsTzp/4ONU8gwUKk/40597?token=HUcJBEVRFg9EDAZTXQZXBwNUAVEGAVYBAVBWBAAHC1cCVVBVUA8MDVAXSEBKF0dWVAg7D1cbCA0DUVcGHURGEQMXPgxSGw4XXgJWUQpBGRFBDAkDEQMDDQZVVggDVgZXSkcRDFIbDlsTWQhOGwZNR1AXCgdfZlZdRwoFVRNcXRcKCU1HWVdrUQNYBQxdQQ8RBEdIRFpKQhoLDRNcXUoRAA8REwRCXBYPCEAIDhVBVlxACxAUShsIGmU3RBwTA0sWAwsSDFlXFg9EQRdAFUFcQGoXARVHS1dZXAYUEgtEAkBKRwwETmZXWghbAQFNClpdRkdeRAIMAhodQQtfXw9HDRQ6EQxSGw5bE1kIHw
 #EXTINF:-1,AXN
 http://broadpeakvip.airlinktt.co/live/smil:AXN.smil/playlist.m3u8
 #EXTINF:-1,WARNER TV
@@ -162,8 +156,6 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CITY_TV.smil/chunklis
 http://broadpeakvip.airlinktt.co/live/smil:BOUNCE.smil/playlist.m3u8
 #EXTINF:-1,BOUNCE TV AT
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOUNCE.smil/chunklist_b1160000_slen.m3u8
-#EXTINF:-1,MYtv33
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:MY33.smil/chunklist_b1160000.m3u8
 #EXTINF:-1,SHOWTIME
 http://broadpeakvip.airlinktt.co/live/smil:SHOWTIME.smil/playlist.m3u8
 #EXTINF:-1,HBO CARIBBEAN
