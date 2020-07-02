@@ -31,7 +31,7 @@ http://broadpeakvip.airlinktt.co/live/smil:OWN.smil/playlist.m3u8
 #EXTINF:-1,BRAVO TV
 http://broadpeakvip.airlinktt.co/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:-1,SUNDANCE
-http://streamking.dvrdns.org:25461/RomeLee7639/LeRRt582Cs/5848?token=HUcOWBUOGgwQUAlcUAJSUFBVV1sOClEHVgYCBlcKUAZfU1UNVVYNAwBAHRpFEkFQUlo+Cl0bClQAUgYeFEZBUBQ6D11EXBoFBVoFGhpER1xeUkNZCAwJUgBTAgIHBh4XFgwCG1xEDQMEUAIaGkRWTUdSEw1YVW8GURNfUVMRCFsTCQoVRAlWaVYHXFlYAhEPEQdDTxtQQxIWX1hHWl8eFwQMEksHEl0UCEAFDARSERkRVA4WV01CGxZfFGZiER4XAx0SXAgVUVlcQAsaQhURGRFeEjxLXEMWRgBXX1NBEA9EVUQVRAtZTm0BXlZYA1BBWlgPEBsDElAEVRQeFF5dWw8RCUs5FlFSEFgTDANRCgARSg== 
+ http://144.76.108.10:25461/AktzdjsTzp/4ONU8gwUKk/40348?token=HUcJBEVRFg9EDAZTXQZXBwNUAVEGAVYBAVBWBAAHC1cCVVBVUA8MDVAXSEBKF0dWVAg7D1cbCA0DUVcGHURGEQMXPgxSGw4XXgJWUQpBGRFBDAkDEQMDDQZVVggDVgZXSkcRDFIbDlsTWQhOGwZNR1AXCgdfZlZdRwoFVRNcXRcKCU1HWVdrUQNYBQxdQQ8RBEdIRFpKQhoLDRNcXUoRAA8REwRCXBYPCEAIDhVBVlxACxAUShsIGmU3RBwTA0sWAwsSDFlXFg9EQRdAFUFcQGoXARVHS1dZXAYUEgtEAkBKRwwETmZXWghbAQFNClpdRkdeRAIMAhodQQtfXw9HDRQ6EQxSGw5bE1kIHw
 #EXTINF:-1,NBC AT
 http://broadpeakvip.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
 #EXTINF:-1,CBS AT
@@ -159,8 +159,6 @@ http://broadpeakvip.airlinktt.co/live/smil:TLC.smil/playlist.m3u8
 http://broadpeakvip.airlinktt.co/live/smil:TBS.smil/playlist.m3u8
 #EXTINF:-1,TCM
 http://broadpeakvip.airlinktt.co/live/smil:TCM.smil/playlist.m3u8
-#EXTINF:-1,AMC
-http://broadpeakvip.airlinktt.co/live/smil:AMC.smil/playlist.m3u8
 #EXTINF:-1,NAT GEO
 http://broadpeakvip.airlinktt.co/live/smil:NATGEO.smil/playlist.m3u8
 #EXTINF:-1,ANIMAL PLANET
