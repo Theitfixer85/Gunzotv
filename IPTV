@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://github.com/Apollo2000/TVGuide/raw/master/utc.xml.gz"
-#EXTINF:-1,TRINITY TV
-http://broadpeakvip.airlinktt.co/live/smil:TRINITY_TV.smil/playlist.m3u8
 #EXTINF:-1,CNC3 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:CNC3.smil/chunklist_b2160000.m3u8
 #EXTINF:-1,TTT 
@@ -14,6 +12,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:SYNERGY.smil/chunkl
 http://broadpeakvip.airlinktt.co/live/smil:TTEN.smil/playlist.m3u8
 #EXTINF:-1,GAYELLE 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:GAYELLE.smil/chunklist_b2160000.m3u8
+#EXTINF:-1,TRINITY TV
+http://broadpeakvip.airlinktt.co/live/smil:TRINITY_TV.smil/playlist.m3u8
 #EXTINF:-1,3ABN
 http://broadpeakvip.airlinktt.co/live/smil:3ABN.smil/playlist.m3u8
 #EXTINF:-1,ABC
