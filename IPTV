@@ -56,7 +56,7 @@ http://broadpeakvip.airlinktt.co/live/smil:CBC.smil/playlist.m3u8
 http://broadpeakvip.airlinktt.co/live/smil:CINEMAX.smil/playlist.m3u8
 #EXTINF:-1,CITY TV 
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CITY_TV.smil/chunklist_b1160000.m3u8
-
+#EXTINF:-1,COMET
 http://primestreams.tv:826/live/eutv1year503/7aVcvewyfD/91152.m3u8
 #EXTINF:-1,CMT
 http://primestreams.tv:826/live/eutv1year503/7aVcvewyfD/1345.m3u8
