@@ -157,8 +157,8 @@ http://broadpeakvip.airlinktt.co/live/smil:TEEN_NICK.smil/playlist.m3u8
 #EXTINF:-1,NICK JR
 http://broadpeakvip.airlinktt.co/live/smil:NICK_JR.smil/playlist.m3u8
 #EXTINF:-1,Paramount Network
-
-
+http://primestreams.tv:826/live/eutv1year503/7aVcvewyfD/1434.m3u8
+#EXTINF:-1,PIXL
 http://primestreams.tv:826/live/eutv1year503/7aVcvewyfD/99422.m3u8
 #EXTINF:-1,REEL
 http://broadpeakvip.airlinktt.co/live/smil:REEL.smil/playlist.m3u8
