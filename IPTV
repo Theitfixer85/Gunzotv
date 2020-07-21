@@ -30,13 +30,12 @@ http://broadpeakvip.airlinktt.co/live/smil:AXN.smil/playlist.m3u8
 http://primestreams.tv:826/live/eutv1year503/7aVcvewyfD/1317.m3u8
 #EXTINF:-1,AMC HD
 http://4gserver.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9411?token=S0MJAxVbF1kWVAACUgACUgUAVlMHBwUDUl5SAldVAlYGUwABBFdUBVESSBYWFUNUVFw9WQBAWQpVDQ4fQxNAAUI+CAZECRdRDRJIFhEIXFQXC1MFXVJQB1cOAgdNREMNVENbDBNfWU8WVRxAABNfUFluBlUSCwBWQQJZRg0KH0ZfDz4GA15UDVASXhZUQx0TXEISEl4MFl8PFBVRCBJBBUQEQ1gIRlkPGBIHWxAPRUNME1gSMDZBH0FdT0cECEANXw9DWERHRkEYEg1HOhNUQkFDB1EJBxERWRoHEU1EXgVIPgINCF1QAEBZC1oWQwsTBAFSAEZOQV4MVl5HDhRsFFkFQ1gIRlkPSQ==
-
+#EXTINF:-1,Al Jazeera
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
 #EXTINF:-1,Al Jazeera HD
 http://primestreams.tv:826/live/eutv1year503/7aVcvewyfD/110047.m3u8
 #EXTINF:-1,BBC WORLD
 http://broadpeakvip.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
-#EXTINF:-1,Al Jazeera
-http://45.126.83.51/qwr9ew/s/s17/index.m3u8
 #EXTINF:-1,BET 
 http://broadpeakvip.airlinktt.co/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1,BET HER
